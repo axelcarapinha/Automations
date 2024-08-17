@@ -1,3 +1,6 @@
 [submodule "Ansible-automations"]
 	path = Ansible-automations
 	url = git@github.com:axelcarapinha/Ansible-automations.git
+[submodule "ProxyLinks"]
+	path = ProxyLinks
+	url = git@github.com:axelcarapinha/ProxyLinks.git
