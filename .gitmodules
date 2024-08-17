@@ -4,3 +4,6 @@
 [submodule "ProxyLinks"]
 	path = ProxyLinks
 	url = git@github.com:axelcarapinha/ProxyLinks.git
+[submodule "Scripting"]
+	path = Scripting
+	url = git@github.com:axelcarapinha/Scripting.git
