@@ -7,3 +7,6 @@
 [submodule "Scripting"]
 	path = Scripting
 	url = git@github.com:axelcarapinha/Scripting.git
+[submodule "ISTransferido"]
+	path = ISTransferido
+	url = git@github.com:axelcarapinha/ISTransferido.git
