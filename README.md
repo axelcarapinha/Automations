@@ -1,5 +1,5 @@
 # Automations
-~~Ways I learn a lot but also automate something that maybe will never compensate the time I used to automate it in the first place XD. But it can benefit others!~~. <br/>
+~~Ways I try to automate every single aspect of my life just for fun, even when not real benefit appears in the horizon XD~~. <br/>
 Ways I automate my life! 🤖 <br/>
 
 1. ⭐ Scripting (generic and very simple scripts)
