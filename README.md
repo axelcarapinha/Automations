@@ -1,5 +1,5 @@
 # Automations
-~~Ways I try to automate every single aspect of my life for fun, learning and contributing, even when not real benefit appears in the horizon XD~~. <br/>
+~~I should have automated this README as well~~. <br/>
 Ways I automate my life! 🤖 <br/>
 
 1. ⭐ Scripting (generic and very simple scripts)
