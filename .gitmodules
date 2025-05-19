@@ -10,3 +10,6 @@
 [submodule "ISTransferido"]
 	path = ISTransferido
 	url = git@github.com:axelcarapinha/ISTransferido.git
+[submodule "RPA-adventures"]
+	path = RPA-adventures
+	url = git@github.com:axelcarapinha/RPA-adventures.git
