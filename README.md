@@ -6,3 +6,4 @@ Ways I automate my life! 🤖 <br/>
 2. ⭐⭐⭐ Ansible automations (to configure, maintain and protect a server)
 3. ⭐⭐ ISTransferido (download files and store in "inbox")
 4. ⭐ ProxyLinks (automated ssh-tunneling + dockerized ssh)
+4. ⭐⭐ RPA Adventures (Buying groceries for me, ...)
